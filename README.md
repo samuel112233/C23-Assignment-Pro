@@ -1,1 +1,2 @@
-# C23-Assignment-Pro
+# staticSquare
+A static square made using Matter.js physics engine
